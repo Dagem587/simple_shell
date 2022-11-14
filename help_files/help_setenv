@@ -1,8 +1,5 @@
-history: history
-    Display or manipulate the history list.
-
-    Display the history list with line numbers, prefixing each modified
-    entry with a `*'.  An argument of N lists only the last N entries.
+setenv: setenv
+    Set values of environment variables.
 
     Exit Status:
-    Returns success unless an invalid option is given or an error occurs.
+    Returns success unless an invalid option is given.
